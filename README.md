@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on ML related project
 - 📫 How to reach me write me to timothee@alpai.eu
-- 😄 Pronouns: there is only two, and i'm a male
+- 😄 Pronouns: there is only two genders, and i'm a male ! so he/his
 - ⚡ Fun fact: made some errors while creating this world !
 
 
