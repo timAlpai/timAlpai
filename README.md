@@ -27,7 +27,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 1. **Chatbot spécialisé pour les élections européennes en france 2024**
    - Un chatbot en  Python, streamlit utilisant l'api de mistralai pour répondre aux questions des utilisateurs concernant les élections européenne.
-   - [Europai.fr](https://europai.fr/){:target="_blank"}
+   - <a href="https://europai.fr/"  target="_blank" >Europai.fr </a>
 
 2. **Assistant IA pour Commerce Électronique**
    - Un assistant IA intégré à une plateforme de commerce électronique pour fournir un support client avancé.
@@ -44,6 +44,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 N'hésitez pas à me contacter pour discuter de collaborations potentielles ou pour toute autre question :
 
 - Email: timothee@alpai.eu
-- Site Web: [alpai.eu](https://alpai.eu){:target="_blank"}
+- Site Web: <a href="https://alpai.eu" target="_blank">alpai.eu</a>
 
 Merci de votre visite! 😊
