@@ -15,11 +15,11 @@ Je suis un développeur de logiciels passionné travaillant principalement avec 
 
 ## Langages et Technologies 🚀
 
-- **Langages de programmation:** PHP, JavaScript, Python
-- **Outils et Frameworks:** WordPress, WooCommerce, Flask, Django, etc.
-- **Gestion de Serveur:** Linux, SSH, web, mail, ftp, dns, db
-- **Intelligence Artificielle:** Traitement Automatique du Langage Naturel (NLP), Assistant IA, ml en générale
-- **Autres:** Génération de Musique, Génération de Vidéos
+- **Langages de programmation:** PHP, JavaScript, Python, etc.
+- **Outils et Frameworks:** WordPress, WooCommerce, Flask, etc.
+- **Gestion de Serveur:** Linux, SSH, web, mail, ftp, dns, db(sql and no-sql)
+- **Intelligence Artificielle:** Traitement Automatique du Langage Naturel (NLP), Assistant IA, ML en générale
+- **Autres:** Tout ce qui me vient en tete, ou dont j'ai besoin pour un dépannage (correcteur de bugs pour différents client/architecture)
 
 ## Projets Récents 🛠️
 
