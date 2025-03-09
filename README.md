@@ -21,23 +21,6 @@ Je suis un développeur de logiciels passionné travaillant principalement avec 
 - **Intelligence Artificielle:** Traitement Automatique du Langage Naturel (NLP), Assistant IA, ML en générale
 - **Autres:** Tout ce qui me vient en tete, ou dont j'ai besoin pour un dépannage (correcteur de bugs pour différents client/architecture)
 
-## Projets Récents 🛠️
-
-Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
-
-1. **Chatbot spécialisé pour les élections européennes en france 2024**
-   - Un chatbot en  Python, streamlit utilisant l'api de mistralai pour répondre aux questions des utilisateurs concernant les élections européenne.
-   - <a href="https://europai.fr/"  target="_blank" >Europai.fr </a>
-
-2. **Assistant IA pour Commerce Électronique**
-   - Un assistant IA intégré à une plateforme de commerce électronique pour fournir un support client avancé.
-   - projet en cours
-3. **Assitant IA pour écrivains**
-   - prendre un roman, le découper avec une compréhension de l'histoire des personnages, des lieux, ambiances, intentions, etc.
-   - extraire un sequencier de manga de l'histoire et proposer la description des planches et images composant chaque chapitres
-   - extraire un knowledge graph de l'histoire et des personnages et faits importants de la trame
-   - projet en cours
-
 
 ## Contact 📧
 
